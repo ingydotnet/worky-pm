@@ -1,4 +1,9 @@
 ---
+version: 0.12
+date:    Mon Jul 21 17:13:19 PDT 2014
+changes:
+- Sqitch to Zilla-Dist
+---
 version: 0.11
 date:    Sun Jun 12 15:17:45 EST 2011
 changes:
