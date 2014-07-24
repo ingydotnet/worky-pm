@@ -1,7 +1,7 @@
 =meta: 0.0.1
 
 name: worky
-version: 0.12
+version: 0.14
 abstract: For when your code no worky
 homepage: https://metacpan.org/release/worky
 
@@ -9,7 +9,7 @@ license: perl
 copyright: 2006-2014. Ingy döt Net.
 author:
   name: Ingy döt Net
-  email: you@your.name
+  email: ingy@cpan.org
   github: ingydotnet
   twitter: ingydotnet
   freenode: ingy
@@ -29,6 +29,7 @@ devel:
 
 =travis:
   type: perl
+  irc: irc.freenode.net#ingy
   testbase: true
   test:
     requires:
