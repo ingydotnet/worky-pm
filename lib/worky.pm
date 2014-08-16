@@ -1,6 +1,6 @@
 use strict; use warnings;
 package worky;
-our $VERSION = '0.19';
+our $VERSION = '0.20';
 
 use orz -base;
 
